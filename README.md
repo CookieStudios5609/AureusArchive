@@ -17,4 +17,4 @@ I'm uploading this about two months after I've stopped working on it, and many o
 - A load of others I won't type out right now.
 - No web dashboard. 
 
-So, I've put this here, just for someone to look at, I guess. Please leave feedback. While I don't plan on making the same mistakes with my next bot, **every** bit of criticism still helps!
+So, I've put this here, just for someone to look at, I guess. Please leave feedback here or message me on discord. While I don't plan on making the same mistakes with my next bot, **every** bit of criticism still helps!
